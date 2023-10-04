@@ -1,2 +1,3 @@
 # ManhattanRepository
-This is my Repository
+Welcome to Github
+let's start exploring
